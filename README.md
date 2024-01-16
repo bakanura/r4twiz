@@ -1,0 +1,6 @@
+- 👋 Hi, I’m r4twiz
+- 👀 I’m interested in go, python, bouldering
+- 🌱 I’m currently learning GoLang and Pulumi/ Terraform
+- 💞️ I’m looking to collaborate on GoLang and Pulumi/ Terraform projects (intermediate)
+- 📫 How to reach me r4twiz@gmail.com
+- ⚡ Fun fact: parfume is made out of whale puke
