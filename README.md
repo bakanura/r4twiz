@@ -1,4 +1,4 @@
-- 👋 Hi, I’m r4twiz
+- 👋 Hi, I’m bakanura
 - 👀 I’m interested in go, python, bouldering
 - 🌱 I’m currently learning GoLang and Pulumi/ Terraform
 - 💞️ I’m looking to collaborate on GoLang and Pulumi/ Terraform projects (intermediate)
